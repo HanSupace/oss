@@ -37,9 +37,9 @@ block of code
 
 
 * item
-   indent
-- item2
-   item
+  ident
+- item 2
+  + item3
 
 
 
