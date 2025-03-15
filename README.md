@@ -50,6 +50,8 @@ http://sqlbak.com
 Click [here][id]
 [id]:http://sqlbak.com
 
+![alt text](logo.png "Title")
+
 $E =mc^2$
 
 <a id="anchor"><\a>
