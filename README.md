@@ -27,8 +27,13 @@ block of code
 주석 [^1] 
 [^1]:주석..
 
+~~strikethrough~~
+
 😂
 
+1.first
+2.second
+ 1.new first
 
 
 $E =mc^2$
