@@ -31,9 +31,9 @@ block of code
 
 😂
 
-1.first
-2.second
- 1.new first
+1. first
+2. second
+ 1. new first
 
 
 $E =mc^2$
