@@ -40,6 +40,10 @@ block of code
   ident
 - item 2
   + item3
+ 
+
+- [x] Done
+- [ ] to do
 
 
 
