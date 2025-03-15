@@ -36,6 +36,12 @@ block of code
      1. subitem
 
 
+* item
+   indent
+- item2
+   item
+
+
 
 $E =mc^2$
 
