@@ -19,8 +19,8 @@ data *science* lab - italics체
 block of code
 ```
 
-주석[^1]
-[^1] 주석..
+주석 [^1] 
+[^1]:주석..
 
 😂
 
