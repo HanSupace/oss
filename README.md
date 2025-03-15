@@ -47,7 +47,7 @@ block of code
 
 http://sqlbak.com
 
-click [here] [id]
+click [here][id]
 [id]:http://sqlbak.com
 
 $E =mc^2$
