@@ -70,3 +70,5 @@ $E =mc^2$
 print("hello")
 ```
 
+`inline_code();`
+
