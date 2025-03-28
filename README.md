@@ -65,3 +65,8 @@ $E =mc^2$
 2. b
 3. c
 4. d
+
+'''python
+print("hello")
+'''
+'inline_code();'
