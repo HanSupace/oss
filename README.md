@@ -47,8 +47,8 @@ block of code
 
 http://sqlbak.com
 
-Click [here] [id]
-[id]:http://sqlbak.com
+Click [here][id]
+[id]: http://sqlbak.com
 
 ![alt text](logo.png "Title")
 
