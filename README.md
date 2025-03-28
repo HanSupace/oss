@@ -66,7 +66,7 @@ $E =mc^2$
 3. c
 4. d
 
-'''python
+```python
 print("hello")
-'''
+```
 
