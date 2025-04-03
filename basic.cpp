@@ -3,7 +3,11 @@
 using namespace std;
 
 int main(){
-    cout << boolalpha;
-    cout << (1==1);
+    int dp[8][8];
+    for(int i=0; i<8;i++){
+        for(int j=0; j<8; j++){
+            
+        }
+    }
 
 }
