@@ -1,0 +1,37 @@
+#include <iostream>
+
+using namespace std;
+
+string a, b;
+
+void is_existing(string a, string b)
+{
+    int i, j;
+    for (i=0;i<a.size();i++)
+    {
+        if (b[0] == a[i])
+        {
+            j=1;   
+            while (j<b.size())
+            {
+                if (b[j] != a[i+j]) break;
+                j++;
+            }
+            if (j == b.size())
+            {
+                cout<<i;
+                return;
+            }
+        }
+    }
+    cout<<-1;
+    return;
+}
+
+int main() {
+    cin >> a >> b;
+
+    is_existing(a, b);
+
+    return 0;
+}
