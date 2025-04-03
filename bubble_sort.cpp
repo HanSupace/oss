@@ -4,6 +4,7 @@ using namespace std;
 
 int main(){
     int a,b;
+    int c;
     int arr[101];
     bool c;
     cin >> a;
