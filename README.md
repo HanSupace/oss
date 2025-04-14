@@ -11,6 +11,9 @@
 #### 헤더4
 
 동아대학교 홈페이지는 [여기](https://www.donga.ac.kr)로
+Click [here][id]
+
+[id]: https://www.donga.ac.kr
 
 data *science* lab - italics체
 **bold**
@@ -47,8 +50,6 @@ block of code
 
 http://sqlbak.com
 
-Click[here][id]
-[id]: http://sqlbak.com
 
 ![alt text](logo.png "Title")
 >인용
